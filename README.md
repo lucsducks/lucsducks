@@ -5,10 +5,12 @@ Mi nombre es Eduardo Lucas. Actualmente estudio la carrera de Ingeniero de Siste
 - Flutter
 - Node.js
 - Dart
+- Nest.js
 
 🛠 Herramientas y lenguajes que utilizo:
 - GIT
 - MongoDB
+- Postgres SQl
 - JavaScript (JS)
 - Dart
 - Railway
