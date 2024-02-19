@@ -16,7 +16,7 @@ Mi nombre es Eduardo Lucas. Actualmente estudio la carrera de Ingeniero de Siste
 - Railway
 
 
-🌱 En estos momentos, estoy trabajando en el proyecto "Semillero" para la creación de una aplicación destinada a la enseñanza del Quechua Central.
+🌱 En estos momentos, estoy trabajando en la creación de una App de delivery.
 
 📫 Cómo contactarme: 2021460003@unheval.pe
 
