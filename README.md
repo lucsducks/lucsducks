@@ -8,10 +8,10 @@ Mi nombre es Eduardo Lucas. Actualmente estudio la carrera de Ingeniero de Siste
 - Nest.js
 
 🛠 Herramientas y lenguajes que utilizo:
-- GIT
-- MongoDB
+- Git
 - Postgres SQl
 - JavaScript (JS)
+- TypeScript
 - Dart
 - Railway
 
