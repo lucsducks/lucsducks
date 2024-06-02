@@ -1,23 +1,26 @@
-### ¡Hola! 👋
-Mi nombre es Eduardo Lucas. Actualmente estudio la carrera de Ingeniero de Sistemas en Universidad Nacional Hermilio Valdizan.
+### Hello! 👋
+My name is Eduardo Lucas. I am currently studying Systems Engineering at Universidad Nacional Hermilio Valdizan.
 
-🔍 Tengo un gran interés en diseño y programación. Actualmente, estoy aprendiendo:
+🔍 I have a strong interest in design and programming. Currently, I am learning:
 - Flutter
 - Node.js
 - Dart
 - Nest.js
+- React.js
 
-🛠 Herramientas y lenguajes que utilizo:
+🛠 Tools and languages I use:
 - Git
-- Postgres SQl
+- PostgreSQL
 - JavaScript (JS)
 - TypeScript
 - Dart
+- Postman
 - Railway
 
+🌱 At the moment, I am working on:
+- Creating a delivery app.
+- Developing an academic management system.
 
-🌱 En estos momentos, estoy trabajando en la creación de una App de delivery.
+📫 How to reach me: 2021460003@unheval.pe
 
-📫 Cómo contactarme: 2021460003@unheval.pe
-
-📢 Pronombres: Lucsducks
+📢 Pronouns: Lucsducks
