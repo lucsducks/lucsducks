@@ -24,3 +24,4 @@ My name is Eduardo Lucas. I am currently studying Systems Engineering at Univers
 📫 How to reach me: 2021460003@unheval.pe
 
 📢 Pronouns: Lucsducks
+[![GitHub Streak](https://streak-stats.demolab.com?user=lucsducks&theme=algolia&hide_border=true&border_radius=10&locale=es&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
