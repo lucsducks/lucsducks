@@ -27,6 +27,9 @@ My name is Eduardo Lucas. I am currently studying Systems Engineering at Univers
 
 
 🔥 Streak Stats
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=lucsducks&theme=algolia&hide_border=true&border_radius=10&locale=es&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
 💻 GitHub Profile Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucsducks&show_icons=true&theme=dracula)
