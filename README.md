@@ -19,7 +19,6 @@ My name is Eduardo Lucas. I am currently studying Systems Engineering at Univers
 
 🌱 At the moment, I am working on:
 - Creating a delivery app.
-- Developing an academic management system.
 
 📫 How to reach me: 2021460003@unheval.pe
 
