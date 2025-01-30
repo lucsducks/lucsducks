@@ -18,7 +18,7 @@ My name is Eduardo Lucas. I am currently studying Systems Engineering at Univers
 - Railway
 
 🌱 At the moment, I am working on:
-- Creating a delivery app.
+- Creating in Education Web Platform: Handin
 
 📫 How to reach me: 2021460003@unheval.pe
 
