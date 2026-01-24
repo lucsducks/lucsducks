@@ -20,7 +20,7 @@ My name is Eduardo Lucas. I am currently studying Systems Engineering at Univers
 🌱 At the moment, I am working on:
 - Creating in Education Web Platform: Handin
 
-📫 How to reach me: 2021460003@unheval.pe
+📫 How to reach me: lucas1617y@gmail.com
 
 📢 Pronouns: Lucsducks
 
