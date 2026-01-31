@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- Banner animado con gradiente -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=200&section=header&text=Eduardo%20Lucas&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00000&height=200&section=header&text=Eduardo%20Lucas&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%" alt="Header"/>
 
 <!-- Typing effect animado -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=2000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=500&lines=Desarrollador+Full+Stack+%F0%9F%92%BB;Ingeniero+de+Sistemas+%F0%9F%8E%93;Flutter+%7C+React+%7C+NestJS+%F0%9F%A4%96;UNHEVAL+%7C+Per%C3%BA+%F0%9F%87%B5%F0%9F%87%AA)](https://git.io/typing-svg)
