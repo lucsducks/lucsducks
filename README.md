@@ -1,22 +1,13 @@
-<!--
-  ✨ README para tu perfil de GitHub (repositorio: lucsducks)
-  Copia todo este contenido en tu repo lucsducks/README.md
--->
-
 <div align="center">
 
-<!-- Banner animado con gradiente -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00000&height=200&section=header&text=Eduardo%20Lucas&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,100:161b22&height=200&section=header&text=Eduardo%20Lucas&fontSize=60&fontColor=c9d1d9&animation=fadeIn&fontAlignY=35" width="100%" alt="Header"/>
 
-<!-- Typing effect animado -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=2000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=500&lines=Desarrollador+Full+Stack+%F0%9F%92%BB;Ingeniero+de+Sistemas+%F0%9F%8E%93;Flutter+%7C+React+%7C+NestJS+%F0%9F%A4%96;UNHEVAL+%7C+Per%C3%BA+%F0%9F%87%B5%F0%9F%87%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=2000&color=8b949e&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=500&lines=Desarrollador+Full+Stack+%F0%9F%92%BB;Ingeniero+de+Sistemas+%F0%9F%8E%93;Flutter+%7C+React+%7C+NestJS+%F0%9F%A4%96;UNHEVAL+%7C+Per%C3%BA+%F0%9F%87%B5%F0%9F%87%AA)](https://git.io/typing-svg)
 
-<!-- Contador de visitantes -->
-<img src="https://komarev.com/ghpvc/?username=lucsducks&color=3b82f6&style=flat-square&label=Profile+Views" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=lucsducks&color=6e7681&style=flat-square&label=Profile+Views" alt="Profile views"/>
 
-<!-- Badges de contacto -->
 <p>
-  <a href="https://eduardolucas.lat" target="_blank"><img src="https://img.shields.io/badge/Portfolio-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://eduardolucas.lat" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6e7681?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:lucas1617y@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
@@ -25,7 +16,6 @@
 
 ---
 
-<!-- Wave divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
 
 ## 👋 Sobre mí
@@ -110,22 +100,24 @@ const eduardo = {
 
 <div align="center">
 
-<!-- Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=lucsducks&theme=react&hide_border=true&border_radius=12&locale=es&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=0D1117&stroke=3B82F6)](https://git.io/streak-stats)
-
-<!-- Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=lucsducks&show_icons=true&theme=react&hide_border=true&border_radius=12&locale=es&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" height="180" alt="Stats"/>
-
-<!-- Top langs -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsducks&layout=compact&theme=react&hide_border=true&border_radius=12&locale=es&bg_color=0D1117&title_color=3B82F6" height="180" alt="Top Langs"/>
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=lucsducks&theme=react&no-frame=true&no-bg=true&column=4&margin-w=15" alt="Trophies"/>
-
-<!-- Snake (requiere GitHub Action - ver instrucciones abajo) -->
-<!-- Descomenta tras configurar el workflow:
-![Snake animation](https://raw.githubusercontent.com/lucsducks/lucsducks/output/github-contribution-grid-snake.svg)
--->
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./profile/streak.svg" width="100%" alt="GitHub Streak"/>
+    </td>
+    <td width="50%">
+      <img src="./profile/stats.svg" width="100%" alt="Stats"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="./profile/top-langs.svg" width="100%" alt="Top Langs"/>
+    </td>
+    <td width="50%">
+      <img src="./profile/trophies.svg" width="100%" alt="Trophies"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -157,7 +149,7 @@ const eduardo = {
 
 <p align="center">
   <a href="mailto:lucas1617y@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://eduardolucas.lat"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://eduardolucas.lat"><img src="https://img.shields.io/badge/Portfolio-6e7681?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://github.com/lucsducks"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
@@ -168,36 +160,3 @@ const eduardo = {
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60" height="60"/>
 
 </div>
-
----
-
-<!--
-  ═══════════════════════════════════════════════════════════════
-  OPCIONAL: Serpiente animada (GitHub Contribution Snake)
-  ═══════════════════════════════════════════════════════════════
-  
-  Para activar la animación de la serpiente comiendo tus contribuciones:
-  
-  1. Crea el archivo .github/workflows/snake.yml en tu repo lucsducks
-  2. Pega este contenido:
-  
-  name: Generate Snake
-  on:
-    schedule:
-      - cron: "0 0 * * *"  # Cada día a medianoche
-    workflow_dispatch:
-  jobs:
-    snake:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@master
-          with:
-            github_user_name: lucsducks
-            outputs: |
-              output/github-contribution-grid-snake.svg
-              output/github-contribution-grid-snake-dark.svg?palette=github-dark
-  
-  3. Ejecuta el workflow manualmente (Actions → Generate Snake → Run workflow)
-  4. Descomenta la línea del snake en la sección de Estadísticas arriba
-  5. Cambia la ruta si usas output/ en vez de dist/
--->

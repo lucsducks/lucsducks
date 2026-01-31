@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195">
+  <rect width="495" height="195" fill="#0d1117" rx="8"/>
+  <text x="247" y="80" fill="#c9d1d9" font-family="Segoe UI" font-size="14" text-anchor="middle">GitHub Streak</text>
+  <text x="247" y="120" fill="#8b949e" font-family="Segoe UI" font-size="12" text-anchor="middle">Generando...</text>
+</svg>
