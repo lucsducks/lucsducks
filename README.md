@@ -140,7 +140,7 @@ const eduardo = {
 
 - 🌐 **Handin** — Plataforma educativa de venta de entradas y cursos
 - 📱 **Eley** — Sistema de asistencia para personas con discapacidad visual
-- 🤖 **IA aplicada** — Integración con Gemini, Ollama
+- 🤖 **Odoo** — Creación de módulos personalizados
 - 🏗️ **Arquitectura de software** — APIs, metodologías ágiles, buenas prácticas
 
 ---
