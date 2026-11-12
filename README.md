@@ -1,114 +1,110 @@
+<!-- Perfil de Lucas · lucsducks -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3730a3,100:38bdf8&height=220&section=header&text=Eduardo%20Lucas&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20%C2%B7%20IA%20%C2%B7%20Ideas%20en%20construcci%C3%B3n&descAlignY=58&descSize=18" width="100%" alt="Eduardo Lucas · Software, IA e ideas en construcción" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:0f766e,100:2dd4bf&height=210&section=header&text=Lucas&fontSize=76&fontColor=f0fdfa&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20de%20sistemas%20%C2%B7%20Construyo%20software%2C%20apps%20e%20IA&descAlignY=60&descSize=18" width="100%" alt="Lucas · Ingeniero de sistemas · Construyo software, apps e IA" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2800&pause=1100&color=38BDF8&center=true&vCenter=true&width=680&height=55&lines=Hola%2C+soy+Lucas+%F0%9F%91%8B;Construyo+apps+y+agentes+de+IA;Flutter+%C2%B7+Full+Stack+%C2%B7+Odoo;Desde+Per%C3%BA+%F0%9F%87%B5%F0%9F%87%AA+%C2%B7+Rapitech" width="100%" alt="Hola, soy Lucas. Construyo apps y agentes de IA. Flutter, Full Stack y Odoo. Desde Perú, en Rapitech." />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=2DD4BF&center=true&vCenter=true&width=720&height=52&lines=Hola%2C+soy+Lucas;Ingeniero+de+sistemas;Construyo+software%2C+apps+e+IA;Rust+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+React;Machine+learning+y+visi%C3%B3n+por+computadora;Codigo+abierto%2C+ideas+libres" alt="Hola, soy Lucas. Ingeniero de sistemas. Construyo software, apps e IA. Machine learning y visión por computadora." />
 
-<a href="https://eduardolucas.lat/"><img src="https://img.shields.io/badge/Portafolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" /></a>
-<a href="mailto:lucas1617y@gmail.com"><img src="https://img.shields.io/badge/Hablemos-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Escríbeme por correo" /></a>
-<a href="https://github.com/lucsducks?tab=repositories"><img src="https://img.shields.io/badge/Mi_c%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mis repositorios" /></a>
+<br />
+
+<a href="mailto:lucas1617y@gmail.com"><img src="https://img.shields.io/badge/Escr%C3%ADbeme-2dd4bf?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="Escríbeme por correo" /></a>
+<a href="https://github.com/lucsducks?tab=repositories"><img src="https://img.shields.io/badge/Mi_c%C3%B3digo-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Mis repositorios en GitHub" /></a>
+<img src="https://komarev.com/ghpvc/?username=lucsducks&style=for-the-badge&color=0f766e&label=Visitas" alt="Visitas al perfil" />
 
 </div>
 
-## 👨‍💻 Un poco de mí
+---
 
-Soy Lucas, ingeniero de sistemas de Perú. Trabajo en **Rapitech** creando apps, agentes de IA e integraciones con Odoo. Me gusta moverme entre el diseño, el código y ese momento en que todo por fin funciona junto.
+## Sobre mí
 
-```typescript
-const lucas = {
-  alias: "lucsducks",
-  desde: "Perú 🇵🇪",
-  construyendo: ["Agentes de IA", "Apps web y móviles", "Integraciones ERP"],
-  explorando: ["Voz en tiempo real", "Memoria para agentes", "Modelos locales"],
-  formaDeTrabajar: "Probar, revisar y mejorar",
-};
+Soy **Lucas**, ingeniero de sistemas. Construyo software de principio a fin: apps web y móviles, APIs y servicios, y proyectos de inteligencia artificial. Me gusta aprender en el camino, probar ideas y dejar el código a la vista. Trabajo abierto, sin ataduras: lo que hago lo comparto.
+
+```python
+class Lucas:
+    def __init__(self):
+        self.alias       = "lucsducks"
+        self.rol         = "Ingeniero de sistemas"
+        self.construyo   = ["apps web y móviles", "APIs y servicios", "proyectos de IA"]
+        self.explorando  = ["machine learning", "visión por computadora", "agentes"]
+        self.forma       = "probar, medir y mejorar"
+
+    def hoy(self):
+        return "aprendiendo algo nuevo y compartiéndolo 🙂"
 ```
 
-## ⚡ En lo que ando
+---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 IA que hace cosas
-
-Agentes conectados a herramientas, con memoria y flujos de trabajo. También exploro voz en tiempo real y coordinación entre agentes.
-
-</td>
-<td width="50%" valign="top">
-
-### 🔗 Odoo + automatización
-
-Módulos e integraciones para conectar procesos de negocio con aplicaciones y servicios de IA.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📱 Apps de punta a punta
-
-Flutter para móvil, React y Next.js para web. Del diseño de la interfaz a las APIs y los datos.
-
-</td>
-<td width="50%" valign="top">
-
-### 🛠️ Herramientas para construir
-
-Contexto de código, trabajo multiagente, pruebas y CI/CD. Buscando que desarrollar y desplegar sea menos complicado.
-
-</td>
-</tr>
-</table>
-
-## 🧩 Mi caja de herramientas
+## Stack
 
 <div align="center">
 
-**Web & móvil**
+**Lenguajes**
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,flutter,dart&theme=dark&perline=6" alt="TypeScript, JavaScript, React, Next.js, Flutter y Dart" />
+<img src="https://skillicons.dev/icons?i=rust,python,ts,js&theme=dark" alt="Rust, Python, TypeScript y JavaScript" />
 
-**Backend & datos**
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=python,nodejs,nestjs,postgres,mongodb&theme=dark&perline=5" alt="Python, Node.js, NestJS, PostgreSQL y MongoDB" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,astro,flutter&theme=dark" alt="React, Next.js, Astro y Flutter" />
 
-**Del código al despliegue**
+**Backend y datos**
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux&theme=dark&perline=5" alt="Git, GitHub, GitLab, Docker y Linux" />
+<img src="https://skillicons.dev/icons?i=fastapi,nestjs,nodejs,postgres,redis,docker&theme=dark" alt="FastAPI, NestJS, Node.js, PostgreSQL, Redis y Docker" />
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" />
-<img src="https://img.shields.io/badge/Agentes_de_IA-6366F1?style=flat-square" alt="Agentes de IA" />
-<img src="https://img.shields.io/badge/MCP-0EA5E9?style=flat-square" alt="MCP" />
-<img src="https://img.shields.io/badge/Modelos_locales-8B5CF6?style=flat-square" alt="Modelos locales" />
+<img src="https://img.shields.io/badge/Machine_Learning-0f766e?style=flat-square&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/Visi%C3%B3n_por_computadora-0f766e?style=flat-square&logo=opencv&logoColor=white" alt="Visión por computadora" />
+<img src="https://img.shields.io/badge/Linux-0f766e?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
+<img src="https://img.shields.io/badge/Git-0f766e?style=flat-square&logo=git&logoColor=white" alt="Git" />
 
 </div>
 
-## 📊 Por aquí en GitHub
+---
+
+## GitHub en números
 
 <div align="center">
 
-<img src="./profile/streak.svg" width="70%" alt="Racha de contribuciones en GitHub" />
+<img src="https://streak-stats.demolab.com/?user=lucsducks&locale=es&hide_border=true&border_radius=12&background=0d1117&border=30363d&stroke=30363d&ring=2dd4bf&fire=2dd4bf&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=2dd4bf&sideLabels=8b949e&dates=8b949e" width="70%" alt="Racha de contribuciones" />
 
-<br />
+<br /><br />
 
-<img src="./profile/stats.svg" width="49%" alt="Estadísticas de GitHub" />
-<img src="./profile/top-langs.svg" width="49%" alt="Lenguajes de los repositorios consultados" />
+<img src="https://github-readme-stats.vercel.app/api?username=lucsducks&show_icons=true&locale=es&hide_border=true&border_radius=12&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=8b949e" width="48%" alt="Resumen de estadísticas de GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsducks&layout=compact&langs_count=8&hide=php,hack&locale=es&hide_border=true&border_radius=12&bg_color=0d1117&title_color=2dd4bf&text_color=8b949e" width="48%" alt="Lenguajes más usados" />
 
-<sub>También trabajo en GitLab y repos privados. Estas tarjetas solo muestran una parte 🙂</sub>
+<br /><br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucsducks&theme=github_dark" width="97%" alt="Resumen de contribuciones del último año" />
+
+<sub>Parte de mi trabajo vive en repos privados; estas tarjetas muestran solo lo público.</sub>
 
 </div>
 
-<br />
+---
+
+## La serpiente
 
 <div align="center">
 
-### ¿Hablamos de código, apps o agentes? 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucsducks/lucsducks/output/serpiente.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucsducks/lucsducks/output/serpiente-light.svg" />
+  <img src="https://raw.githubusercontent.com/lucsducks/lucsducks/output/serpiente.svg" width="100%" alt="Serpiente recorriendo el gráfico de contribuciones" />
+</picture>
 
-[**eduardolucas.lat**](https://eduardolucas.lat/) · [**lucas1617y@gmail.com**](mailto:lucas1617y@gmail.com)
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:3730a3,100:0d1117&height=110&section=footer" width="100%" alt="" />
+---
+
+## Contacto
+
+<div align="center">
+
+[**lucas1617y@gmail.com**](mailto:lucas1617y@gmail.com) · [**github.com/lucsducks**](https://github.com/lucsducks)
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,40:0f766e,100:0d1117&height=120&section=footer" width="100%" alt="" />
 
 </div>
