@@ -83,8 +83,6 @@ class Lucas:
 
 ---
 
-## La serpiente
-
 <div align="center">
 
 <picture>
@@ -96,8 +94,6 @@ class Lucas:
 </div>
 
 ---
-
-## Contacto
 
 <div align="center">
 
